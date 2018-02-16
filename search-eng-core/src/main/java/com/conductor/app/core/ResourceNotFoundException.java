@@ -1,0 +1,1 @@
+package com.conductor.app.core;public class ResourceNotFoundException extends RuntimeException{	public ResourceNotFoundException() {		super();	}}

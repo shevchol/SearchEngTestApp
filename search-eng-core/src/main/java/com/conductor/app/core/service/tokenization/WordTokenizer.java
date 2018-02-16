@@ -1,0 +1,1 @@
+package com.conductor.app.core.service.tokenization;import java.util.List;public interface WordTokenizer {	List<String> tokenize(String text);}

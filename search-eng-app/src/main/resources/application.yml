@@ -1,0 +1,1 @@
+info.build.version: '@project.version@'swagger-host: localhost:8080default:  charset: UTF-8

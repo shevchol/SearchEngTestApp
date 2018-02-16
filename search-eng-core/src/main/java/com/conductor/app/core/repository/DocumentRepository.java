@@ -1,0 +1,1 @@
+package com.conductor.app.core.repository;import com.conductor.app.core.model.Document;public interface DocumentRepository {	Document get(Long id);		Long add(Document document);	void clearDB();}
